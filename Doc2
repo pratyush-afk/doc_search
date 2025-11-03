@@ -1,0 +1,7 @@
+Meeting Notes: Project Phoenix
+
+Project Phoenix aims to refactor the company's legacy monolith application into a microservices architecture.
+This initiative is driven by the need for better scalability and faster feature deployment.
+The team has decided on using Docker and Kubernetes for container orchestration.
+Java and Spring Boot will be used for the new microservices.
+A major challenge identified is data migration from the old database. The team is evaluating PostgreSQL as the new standard.
